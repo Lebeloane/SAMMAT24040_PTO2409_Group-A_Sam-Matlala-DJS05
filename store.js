@@ -1,7 +1,7 @@
 import { ADD, SUBTRACT, RESET } from "./actions.js";
 
 /**
- * Creates a redux store to manage the sate of an appliction
+ * Creates a redux store to manage the state of an appliction
  * 
  * @function
  * @param {Function} reducer - Reducer function that handles state updates based on the actions
